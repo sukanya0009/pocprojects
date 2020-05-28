@@ -1,0 +1,12 @@
+C:\Users\Sukanya\source\repos\SplashScreen\SplashScreen\SplashScreen\bin\Debug\netstandard2.0\SplashScreen.deps.json
+C:\Users\Sukanya\source\repos\SplashScreen\SplashScreen\SplashScreen\bin\Debug\netstandard2.0\SplashScreen.dll
+C:\Users\Sukanya\source\repos\SplashScreen\SplashScreen\SplashScreen\bin\Debug\netstandard2.0\SplashScreen.pdb
+C:\Users\Sukanya\source\repos\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.csprojAssemblyReference.cache
+C:\Users\Sukanya\source\repos\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sukanya\source\repos\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sukanya\source\repos\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.csproj.CoreCompileInputs.cache
+C:\Users\Sukanya\source\repos\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.AssemblyInfoInputs.cache
+C:\Users\Sukanya\source\repos\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.AssemblyInfo.cs
+C:\Users\Sukanya\source\repos\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sukanya\source\repos\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.dll
+C:\Users\Sukanya\source\repos\SplashScreen\SplashScreen\SplashScreen\obj\Debug\netstandard2.0\SplashScreen.pdb
